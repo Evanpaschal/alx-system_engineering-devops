@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 whoami
+=======
+#!/bin/bash
+whoami
+>>>>>>> 5f7708f1780ac5f26d182d745642ad95f4bdcd6a
